@@ -2,6 +2,8 @@
 
 # Octopress Lunr.js plugin
 
+Author: [Yortz](http://github.com/yortz). This is the _second_ fork for experimental purposes.
+
 This plugin replaces [octopress](https://github.com/imathis/octopress) google search functionality with [lunr.js](http://lunrjs.com/).
 
 Heavily inspired by [jekyll-lunr-search](https://github.com/slashdotdash/jekyll-lunr-js-search).
