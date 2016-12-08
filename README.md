@@ -167,7 +167,7 @@ Note the use of `{% raw %}` and `{% endraw %}` to ensure the HandleBars tags are
 
 ## Test
 
-Testing is possible thanks to [jasmine](http://pivotal.github.io/jasmine/), [jasmine-jquery](https://github.com/velesin/jasmine-jquery) and [jasmine-headless-webkit](https://github.com/johnbintz/jasmine-headless-webkit)
+Testing is possible thanks to [jasmine](https://jasmine.github.io/), [jasmine-jquery](https://github.com/velesin/jasmine-jquery) and [jasmine-headless-webkit](https://github.com/johnbintz/jasmine-headless-webkit)
 
 To setup the bogus app and run the tests
 
